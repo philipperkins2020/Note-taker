@@ -7,11 +7,11 @@ In this assignment I created a note taker app that uses routes to connect the ht
 
 ## Usage
 
-![NOTE-TAKER](public\assets/images/Screenshot(192).png)
-![NOTE-TAKER](public\assets/images/Screenshot(193).png)
-![NOTE-TAKER](public\assets/images/Screenshot(194).png)
-![NOTE-TAKER](public\assets/images/Screenshot(195).png)
-![NOTE-TAKER](public\assets/images/Screenshot(196).png)
+![NOTE-TAKER](assets/images/Screenshot(192).png)
+![NOTE-TAKER](assets/images/Screenshot(193).png)
+![NOTE-TAKER](assets/images/Screenshot(194).png)
+![NOTE-TAKER](assets/images/Screenshot(195).png)
+![NOTE-TAKER](assets/images/Screenshot(196).png)
 
 
 
